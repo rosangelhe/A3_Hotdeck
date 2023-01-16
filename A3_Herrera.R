@@ -56,3 +56,6 @@ for (i in faltantes) {
   ing_laboral_imp[i, "TMHP45BS"] <- registro$TMHP45BS
   ing_laboral_imp[i, "PMHP60BS"] <- registro$PMHP60BS
 }
+# la tercera variable seleccionada fue Tciudad_max mejor conocido como tipo de ciudad, en el cual
+# se buscaba relacionar las principales variables para entender mejor los estratos socioecnomicos en el
+# pais segun la capacidad de empleo que estos otorgaban en sus habitantes en relacion a la edad y sexo.
